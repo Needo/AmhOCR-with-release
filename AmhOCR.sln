@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NetTesseract", "NetTesseract\NetTesseract.vbproj", "{639F6FEE-FD7A-422D-B1FD-E9F16059CE51}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AmhOCR", "AmhOCR\AmhOCR.vbproj", "{1F4A789B-B2A2-49B0-9672-D73B1BC4AA39}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AmhOCR-Setup", "AmhOCR-Setup\AmhOCR-Setup.vdproj", "{9E64F4B9-570E-4643-A400-211E43661087}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,8 +44,18 @@ Global
 		{1F4A789B-B2A2-49B0-9672-D73B1BC4AA39}.Release|x64.Build.0 = Release|x64
 		{1F4A789B-B2A2-49B0-9672-D73B1BC4AA39}.Release|x86.ActiveCfg = Release|x86
 		{1F4A789B-B2A2-49B0-9672-D73B1BC4AA39}.Release|x86.Build.0 = Release|x86
+		{9E64F4B9-570E-4643-A400-211E43661087}.Debug|Any CPU.ActiveCfg = Debug
+		{9E64F4B9-570E-4643-A400-211E43661087}.Debug|x64.ActiveCfg = Debug
+		{9E64F4B9-570E-4643-A400-211E43661087}.Debug|x86.ActiveCfg = Debug
+		{9E64F4B9-570E-4643-A400-211E43661087}.Debug|x86.Build.0 = Debug
+		{9E64F4B9-570E-4643-A400-211E43661087}.Release|Any CPU.ActiveCfg = Release
+		{9E64F4B9-570E-4643-A400-211E43661087}.Release|x64.ActiveCfg = Release
+		{9E64F4B9-570E-4643-A400-211E43661087}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C700023C-4006-4B8A-9A02-6000FFB42358}
 	EndGlobalSection
 EndGlobal
