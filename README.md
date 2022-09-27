@@ -33,6 +33,7 @@ AmhOCR is an Optical Character Recognition (OCR) application for Windows Desktop
  - iTextSharp
  - Microsoft.Bcl.Async
  - OpenXML SDK 2.5
+ - Microsoft Visual Studio Installer Projects
  
 ## Building with Visual Studio:
 - Visual studio 2015 and later
