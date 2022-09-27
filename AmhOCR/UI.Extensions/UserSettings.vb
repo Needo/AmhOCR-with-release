@@ -49,11 +49,35 @@ Public Class UserSettings
 
     Public Shared Property PageSegMode As PageSegMode = PageSegMode.sparsetext
 
-    Public Shared Property DefaultocrFont As Font
-
+    Private Shared _amhocrFont As Font
     Public Shared Property AmhocrFont As Font
+        Get
+            Return _amhocrFont
+        End Get
+        Set(ByVal value As Font)
+            _amhocrFont = value
+        End Set
+    End Property
 
+    Private Shared _defaultocrFont As Font
+    Public Shared Property DefaultocrFont As Font
+        Get
+            Return _defaultocrFont
+        End Get
+        Set(ByVal value As Font)
+            _defaultocrFont = value
+        End Set
+    End Property
+
+    Private Shared _ocrFont As Font
     Public Shared Property ocrFont As Font
+        Get
+            Return _ocrFont
+        End Get
+        Set(ByVal value As Font)
+            _ocrFont = value
+        End Set
+    End Property
 
 
     Public Shared Property MinimumWordLength As Integer = 2
@@ -155,6 +179,16 @@ Public Class UserSettings
 
         Language = lang
         If Language = "amh" Then
+
+            'Added hack/fallback method to set the default fonts when it get disposed or unable to initialize.
+            Try
+                If AmhocrFont.Name Is Nothing Then
+
+                End If
+            Catch ex As Exception
+                'Reset font in case it got disposed.
+                AmhocrFont = New Font("Power Geez Unicode1", 11, FontStyle.Regular)
+            End Try
             ocrFont = AmhocrFont.Clone
         Else
             ocrFont = DefaultocrFont.Clone
