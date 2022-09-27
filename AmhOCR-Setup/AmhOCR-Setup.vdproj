@@ -15,8 +15,8 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_0827ACBCD1430819E8F5A60C1B41864A"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
+        "MsmKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -27,56 +27,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_0C723534462144E79A121650C4C13383"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0EE7D3C9754367DC7F88E251B920FF4D"
-        "OwnerKey" = "8:_5CE5A53E2315477C89DEA8BC978EB33C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0EE7D3C9754367DC7F88E251B920FF4D"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0EE7D3C9754367DC7F88E251B920FF4D"
-        "OwnerKey" = "8:_714AD6059CF53B73157C2AA27780CF23"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0EE7D3C9754367DC7F88E251B920FF4D"
-        "OwnerKey" = "8:_5DAED37C63104181958DEB2E82B0CF35"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_113E24E1464A2397F1CFCCF82F5DB89F"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_163454287A87F1A7BCD959825B0C32A6"
-        "OwnerKey" = "8:_D9F9CC63B5BE4105B7708B737515E4C1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_163454287A87F1A7BCD959825B0C32A6"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_163454287A87F1A7BCD959825B0C32A6"
-        "OwnerKey" = "8:_0827ACBCD1430819E8F5A60C1B41864A"
+        "MsmKey" = "8:_1097D7501CC115D00AA10464D377985A"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -87,32 +39,32 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_26F6D07BED6247E3B323229A32A00526"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_294CE30790A29A73D00D647A5CA15FFE"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_2ED1222BE919BE67E0DFE13933C0E4AF"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
+        "MsmKey" = "8:_295C631DC0F44D06F80C8854722C2BFD"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_2F77CB5B982D4B03A05E4108B8F02588"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_2EDB76D276BD68D78D54F98CFEBD64F1"
+        "OwnerKey" = "8:_411B3D4689F7191032D5376A78C1C007"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_30679AEC4A9E45A09E02CC73B560742D"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_2EDB76D276BD68D78D54F98CFEBD64F1"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_35A8AE166BFA4989837737929E3CEB3F"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_311801A09758125264364D4C984EAE20"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -123,73 +75,31 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_3CA4556370F845F0A9FB48853F27AAE0"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_411B3D4689F7191032D5376A78C1C007"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4DA2A090F8984A2BA9EB8932AAD100BC"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_4D9DB5AE6D3FCB5CDE056E5D3BBEA0FE"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_4D9DB5AE6D3FCB5CDE056E5D3BBEA0FE"
+        "OwnerKey" = "8:_6EA5D403471D420FBAA0A35D197A28D1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5822DC0F06EF791FEEE2D11BD939D402"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
+        "MsmKey" = "8:_4D9DB5AE6D3FCB5CDE056E5D3BBEA0FE"
+        "OwnerKey" = "8:_294CE30790A29A73D00D647A5CA15FFE"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_59448A6F673B45B0943A1F6F9F808227"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_599499FDAEF1447190B1C13E23E913CC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5CE5A53E2315477C89DEA8BC978EB33C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5DAED37C63104181958DEB2E82B0CF35"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_645D8B7A3E036EAB4BF3ABD8A1551E37"
-        "OwnerKey" = "8:_5DAED37C63104181958DEB2E82B0CF35"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_645D8B7A3E036EAB4BF3ABD8A1551E37"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_645D8B7A3E036EAB4BF3ABD8A1551E37"
-        "OwnerKey" = "8:_714AD6059CF53B73157C2AA27780CF23"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_655BF4E397074EF581F7D35596F5A1DA"
+        "MsmKey" = "8:_5843EC7526384E4286518F7C6D4F7BEF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -201,13 +111,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_714AD6059CF53B73157C2AA27780CF23"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
+        "MsmKey" = "8:_6EA5D403471D420FBAA0A35D197A28D1"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8077DADFE6174D6297D8F30133469690"
+        "MsmKey" = "8:_7BCFF7A2178C41839E561D50D6E67161"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7FFE9F72702D484F950152BF0CACECF0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -225,20 +141,50 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8C71AD4076C34AEC88D1BADA54DBF2BB"
+        "MsmKey" = "8:_86882FE8386443CD86775EFD350ED6E3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_932871BB5141453994EBC55D875D2CCC"
+        "MsmKey" = "8:_A1FF35866AFF4F169E154463E4BD1D0B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9A5E6B311121496D91ADB4A659D82C7F"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_A47725E8EA63DC67E6B51E7E7EBD6EB4"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A47725E8EA63DC67E6B51E7E7EBD6EB4"
+        "OwnerKey" = "8:_2EDB76D276BD68D78D54F98CFEBD64F1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A47725E8EA63DC67E6B51E7E7EBD6EB4"
+        "OwnerKey" = "8:_411B3D4689F7191032D5376A78C1C007"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5433635191B276CA76AA0BFCD6D6F16"
+        "OwnerKey" = "8:_294CE30790A29A73D00D647A5CA15FFE"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5433635191B276CA76AA0BFCD6D6F16"
+        "OwnerKey" = "8:_6EA5D403471D420FBAA0A35D197A28D1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5433635191B276CA76AA0BFCD6D6F16"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -249,13 +195,25 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BA2B9EAAEFE743A29020D262C4E0306D"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_B5648E2A73AECBC372A5AD56CC90D35D"
+        "OwnerKey" = "8:_294CE30790A29A73D00D647A5CA15FFE"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_BD3B3BA808E545A389EEE807A13D69F7"
+        "MsmKey" = "8:_B5648E2A73AECBC372A5AD56CC90D35D"
+        "OwnerKey" = "8:_6EA5D403471D420FBAA0A35D197A28D1"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B5648E2A73AECBC372A5AD56CC90D35D"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BA2B9EAAEFE743A29020D262C4E0306D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -267,32 +225,14 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_CB7DF15592E74F49809C25B9610C48A1"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D78D86A014E546EE92B5E5985C517FDE"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_D7F5D3F029FC43EEBAADB2EEDC9E0628"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D99E2A91BE6AB839C9CC7471B52DBBC6"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D9F9CC63B5BE4105B7708B737515E4C1"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_DD2DAAEBFEEDBED54E565557576B37A2"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -303,20 +243,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_E481C26FCDBD4B1F3D6BE8BDD115ED88"
-        "OwnerKey" = "8:_5DAED37C63104181958DEB2E82B0CF35"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E481C26FCDBD4B1F3D6BE8BDD115ED88"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E481C26FCDBD4B1F3D6BE8BDD115ED88"
-        "OwnerKey" = "8:_714AD6059CF53B73157C2AA27780CF23"
+        "MsmKey" = "8:_ED8B96DE7B294BD0A9702D734F350591"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -333,32 +261,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_FA79CFEA083F2C5E2A22228836AD502F"
-        "OwnerKey" = "8:_59448A6F673B45B0943A1F6F9F808227"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FA79CFEA083F2C5E2A22228836AD502F"
-        "OwnerKey" = "8:_0827ACBCD1430819E8F5A60C1B41864A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FA79CFEA083F2C5E2A22228836AD502F"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FA79CFEA083F2C5E2A22228836AD502F"
-        "OwnerKey" = "8:_163454287A87F1A7BCD959825B0C32A6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_FA79CFEA083F2C5E2A22228836AD502F"
-        "OwnerKey" = "8:_D9F9CC63B5BE4105B7708B737515E4C1"
+        "MsmKey" = "8:_F9F1CF05943E4365B1AEDC696F70E7C3"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -370,175 +274,103 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D78D86A014E546EE92B5E5985C517FDE"
+        "OwnerKey" = "8:_295C631DC0F44D06F80C8854722C2BFD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_523BC74E2C19459E84D0EE06650E1E84"
+        "OwnerKey" = "8:_A1FF35866AFF4F169E154463E4BD1D0B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2ED1222BE919BE67E0DFE13933C0E4AF"
+        "OwnerKey" = "8:_5843EC7526384E4286518F7C6D4F7BEF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D99E2A91BE6AB839C9CC7471B52DBBC6"
+        "OwnerKey" = "8:_6EA5D403471D420FBAA0A35D197A28D1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_113E24E1464A2397F1CFCCF82F5DB89F"
+        "OwnerKey" = "8:_ED8B96DE7B294BD0A9702D734F350591"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0827ACBCD1430819E8F5A60C1B41864A"
+        "OwnerKey" = "8:_86882FE8386443CD86775EFD350ED6E3"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_714AD6059CF53B73157C2AA27780CF23"
+        "OwnerKey" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5822DC0F06EF791FEEE2D11BD939D402"
+        "OwnerKey" = "8:_294CE30790A29A73D00D647A5CA15FFE"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_655BF4E397074EF581F7D35596F5A1DA"
+        "OwnerKey" = "8:_B5648E2A73AECBC372A5AD56CC90D35D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5DAED37C63104181958DEB2E82B0CF35"
+        "OwnerKey" = "8:_A5433635191B276CA76AA0BFCD6D6F16"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E481C26FCDBD4B1F3D6BE8BDD115ED88"
+        "OwnerKey" = "8:_4D9DB5AE6D3FCB5CDE056E5D3BBEA0FE"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_645D8B7A3E036EAB4BF3ABD8A1551E37"
+        "OwnerKey" = "8:_DD2DAAEBFEEDBED54E565557576B37A2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_30679AEC4A9E45A09E02CC73B560742D"
+        "OwnerKey" = "8:_311801A09758125264364D4C984EAE20"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9A5E6B311121496D91ADB4A659D82C7F"
+        "OwnerKey" = "8:_1097D7501CC115D00AA10464D377985A"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4DA2A090F8984A2BA9EB8932AAD100BC"
+        "OwnerKey" = "8:_411B3D4689F7191032D5376A78C1C007"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0C723534462144E79A121650C4C13383"
+        "OwnerKey" = "8:_2EDB76D276BD68D78D54F98CFEBD64F1"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5CE5A53E2315477C89DEA8BC978EB33C"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_0EE7D3C9754367DC7F88E251B920FF4D"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D9F9CC63B5BE4105B7708B737515E4C1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_163454287A87F1A7BCD959825B0C32A6"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8077DADFE6174D6297D8F30133469690"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2F77CB5B982D4B03A05E4108B8F02588"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8C71AD4076C34AEC88D1BADA54DBF2BB"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_35A8AE166BFA4989837737929E3CEB3F"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_CB7DF15592E74F49809C25B9610C48A1"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_932871BB5141453994EBC55D875D2CCC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_26F6D07BED6247E3B323229A32A00526"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_59448A6F673B45B0943A1F6F9F808227"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FA79CFEA083F2C5E2A22228836AD502F"
+        "OwnerKey" = "8:_A47725E8EA63DC67E6B51E7E7EBD6EB4"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -604,20 +436,20 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0827ACBCD1430819E8F5A60C1B41864A"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_049F265B2CD34A3F945FA7E0A31540D2"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:AmhOCR, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_0827ACBCD1430819E8F5A60C1B41864A"
+                    "_049F265B2CD34A3F945FA7E0A31540D2"
                     {
-                    "Name" = "8:AForge.Imaging.dll"
+                    "Name" = "8:AmhOCR.exe"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:AForge.Imaging.dll"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\AmhOCR.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -632,7 +464,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_09A37FA56FAC4C348300736C4178A982"
@@ -655,113 +487,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0C723534462144E79A121650C4C13383"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.IO, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_0C723534462144E79A121650C4C13383"
-                    {
-                    "Name" = "8:System.IO.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\System.IO.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0EE7D3C9754367DC7F88E251B920FF4D"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Threading.Tasks, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_0EE7D3C9754367DC7F88E251B920FF4D"
-                    {
-                    "Name" = "8:Microsoft.Threading.Tasks.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.Threading.Tasks.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_113E24E1464A2397F1CFCCF82F5DB89F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1097D7501CC115D00AA10464D377985A"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:DotNetZip, Version=1.13.4.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_113E24E1464A2397F1CFCCF82F5DB89F"
+                    "_1097D7501CC115D00AA10464D377985A"
                     {
                     "Name" = "8:DotNetZip.dll"
                     "Attributes" = "3:512"
                     }
                 }
             "SourcePath" = "8:DotNetZip.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_163454287A87F1A7BCD959825B0C32A6"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_163454287A87F1A7BCD959825B0C32A6"
-                    {
-                    "Name" = "8:AForge.Math.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:AForge.Math.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -799,51 +538,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_26F6D07BED6247E3B323229A32A00526"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_294CE30790A29A73D00D647A5CA15FFE"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:DotNetZip, Version=1.13.4.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:NetTesseract, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_26F6D07BED6247E3B323229A32A00526"
+                    "_294CE30790A29A73D00D647A5CA15FFE"
                     {
-                    "Name" = "8:DotNetZip.dll"
+                    "Name" = "8:NetTesseract.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\DotNetZip.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2ED1222BE919BE67E0DFE13933C0E4AF"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_2ED1222BE919BE67E0DFE13933C0E4AF"
-                    {
-                    "Name" = "8:itextsharp.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:itextsharp.dll"
+            "SourcePath" = "8:NetTesseract.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -861,209 +569,14 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2F77CB5B982D4B03A05E4108B8F02588"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_295C631DC0F44D06F80C8854722C2BFD"
             {
             "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GhostscriptSharp, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_2F77CB5B982D4B03A05E4108B8F02588"
-                    {
-                    "Name" = "8:GhostscriptSharp.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\GhostscriptSharp.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_30679AEC4A9E45A09E02CC73B560742D"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Threading.Tasks, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_30679AEC4A9E45A09E02CC73B560742D"
-                    {
-                    "Name" = "8:Microsoft.Threading.Tasks.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Microsoft.Threading.Tasks.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_35A8AE166BFA4989837737929E3CEB3F"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AForge.Imaging.Formats, Version=2.2.4.0, Culture=neutral, PublicKeyToken=8065ed5a639199a0, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_35A8AE166BFA4989837737929E3CEB3F"
-                    {
-                    "Name" = "8:AForge.Imaging.Formats.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\AForge.Imaging.Formats.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B02F818291B4C99915FF8D093E0F29E"
-            {
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Tesseract\\tessdata\\amh.traineddata"
-            "TargetName" = "8:amh.traineddata"
-            "Tag" = "8:"
-            "Folder" = "8:_0F85D27FF81B44C6A869F27BBBBF8AA4"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3CA4556370F845F0A9FB48853F27AAE0"
-            {
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\NetTesseract.dll.config"
-            "TargetName" = "8:NetTesseract.dll.config"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4DA2A090F8984A2BA9EB8932AAD100BC"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Runtime, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_4DA2A090F8984A2BA9EB8932AAD100BC"
-                    {
-                    "Name" = "8:System.Runtime.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\System.Runtime.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_523BC74E2C19459E84D0EE06650E1E84"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AmhOCR, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_523BC74E2C19459E84D0EE06650E1E84"
-                    {
-                    "Name" = "8:AmhOCR.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\AmhOCR.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5822DC0F06EF791FEEE2D11BD939D402"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyIsInGAC" = "11:TRUE"
             "AssemblyAsmDisplayName" = "8:DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_5822DC0F06EF791FEEE2D11BD939D402"
+                    "_295C631DC0F44D06F80C8854722C2BFD"
                     {
                     "Name" = "8:DocumentFormat.OpenXml.dll"
                     "Attributes" = "3:512"
@@ -1087,133 +600,20 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_59448A6F673B45B0943A1F6F9F808227"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2EDB76D276BD68D78D54F98CFEBD64F1"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_59448A6F673B45B0943A1F6F9F808227"
+                    "_2EDB76D276BD68D78D54F98CFEBD64F1"
                     {
                     "Name" = "8:AForge.Math.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\AForge.Math.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_599499FDAEF1447190B1C13E23E913CC"
-            {
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\AmhOCR.exe.config"
-            "TargetName" = "8:AmhOCR.exe.config"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5CE5A53E2315477C89DEA8BC978EB33C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Threading.Tasks.Extensions, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_5CE5A53E2315477C89DEA8BC978EB33C"
-                    {
-                    "Name" = "8:Microsoft.Threading.Tasks.Extensions.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Microsoft.Threading.Tasks.Extensions.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5DAED37C63104181958DEB2E82B0CF35"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:NetTesseract, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_5DAED37C63104181958DEB2E82B0CF35"
-                    {
-                    "Name" = "8:NetTesseract.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\NetTesseract.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_645D8B7A3E036EAB4BF3ABD8A1551E37"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Runtime, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_645D8B7A3E036EAB4BF3ABD8A1551E37"
-                    {
-                    "Name" = "8:System.Runtime.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Runtime.dll"
+            "SourcePath" = "8:AForge.Math.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1231,20 +631,133 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_655BF4E397074EF581F7D35596F5A1DA"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_311801A09758125264364D4C984EAE20"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:GhostscriptSharp, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_655BF4E397074EF581F7D35596F5A1DA"
+                    "_311801A09758125264364D4C984EAE20"
                     {
-                    "Name" = "8:AForge.dll"
+                    "Name" = "8:GhostscriptSharp.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\AForge.dll"
+            "SourcePath" = "8:GhostscriptSharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B02F818291B4C99915FF8D093E0F29E"
+            {
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Tesseract\\tessdata\\amh.traineddata"
+            "TargetName" = "8:amh.traineddata"
+            "Tag" = "8:"
+            "Folder" = "8:_0F85D27FF81B44C6A869F27BBBBF8AA4"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_411B3D4689F7191032D5376A78C1C007"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_411B3D4689F7191032D5376A78C1C007"
+                    {
+                    "Name" = "8:AForge.Imaging.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:AForge.Imaging.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4D9DB5AE6D3FCB5CDE056E5D3BBEA0FE"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Threading.Tasks, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_4D9DB5AE6D3FCB5CDE056E5D3BBEA0FE"
+                    {
+                    "Name" = "8:Microsoft.Threading.Tasks.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Threading.Tasks.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5843EC7526384E4286518F7C6D4F7BEF"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Threading.Tasks.Extensions.Desktop, Version=1.0.168.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_5843EC7526384E4286518F7C6D4F7BEF"
+                    {
+                    "Name" = "8:Microsoft.Threading.Tasks.Extensions.Desktop.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\Microsoft.Threading.Tasks.Extensions.Desktop.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1282,20 +795,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_714AD6059CF53B73157C2AA27780CF23"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6EA5D403471D420FBAA0A35D197A28D1"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:NetTesseract, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Threading.Tasks.Extensions, Version=1.0.12.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_714AD6059CF53B73157C2AA27780CF23"
+                    "_6EA5D403471D420FBAA0A35D197A28D1"
                     {
-                    "Name" = "8:NetTesseract.dll"
+                    "Name" = "8:Microsoft.Threading.Tasks.Extensions.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:NetTesseract.dll"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\Microsoft.Threading.Tasks.Extensions.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1310,24 +823,33 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8077DADFE6174D6297D8F30133469690"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7BCFF7A2178C41839E561D50D6E67161"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
-                "ScatterAssemblies"
-                {
-                    "_8077DADFE6174D6297D8F30133469690"
-                    {
-                    "Name" = "8:System.Net.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\System.Net.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\AmhOCR.exe.config"
+            "TargetName" = "8:AmhOCR.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7FFE9F72702D484F950152BF0CACECF0"
+            {
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\gsdll32.dll"
+            "TargetName" = "8:gsdll32.dll"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
             "Condition" = "8:"
@@ -1384,20 +906,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8C71AD4076C34AEC88D1BADA54DBF2BB"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_86882FE8386443CD86775EFD350ED6E3"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Threading.Tasks.Extensions.Desktop, Version=1.0.168.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:AForge.Imaging.Formats, Version=2.2.4.0, Culture=neutral, PublicKeyToken=8065ed5a639199a0, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_8C71AD4076C34AEC88D1BADA54DBF2BB"
+                    "_86882FE8386443CD86775EFD350ED6E3"
                     {
-                    "Name" = "8:Microsoft.Threading.Tasks.Extensions.Desktop.dll"
+                    "Name" = "8:AForge.Imaging.Formats.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Microsoft.Threading.Tasks.Extensions.Desktop.dll"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\AForge.Imaging.Formats.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1415,20 +937,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_932871BB5141453994EBC55D875D2CCC"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A1FF35866AFF4F169E154463E4BD1D0B"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
                 "ScatterAssemblies"
                 {
-                    "_932871BB5141453994EBC55D875D2CCC"
+                    "_A1FF35866AFF4F169E154463E4BD1D0B"
                     {
-                    "Name" = "8:itextsharp.dll"
+                    "Name" = "8:WindowsBase.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\itextsharp.dll"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\WindowsBase.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1446,20 +968,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9A5E6B311121496D91ADB4A659D82C7F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A47725E8EA63DC67E6B51E7E7EBD6EB4"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Threading.Tasks, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_9A5E6B311121496D91ADB4A659D82C7F"
+                    "_A47725E8EA63DC67E6B51E7E7EBD6EB4"
                     {
-                    "Name" = "8:System.Threading.Tasks.dll"
+                    "Name" = "8:AForge.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\System.Threading.Tasks.dll"
+            "SourcePath" = "8:AForge.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1474,7 +996,38 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A5433635191B276CA76AA0BFCD6D6F16"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Runtime, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_A5433635191B276CA76AA0BFCD6D6F16"
+                    {
+                    "Name" = "8:System.Runtime.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Runtime.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A70B8D54ADD246B7B10646FE8C03DE63"
@@ -1497,12 +1050,23 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BA2B9EAAEFE743A29020D262C4E0306D"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B5648E2A73AECBC372A5AD56CC90D35D"
             {
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Tesseract\\x86\\tesseract.exe"
-            "TargetName" = "8:tesseract.exe"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Threading.Tasks, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_B5648E2A73AECBC372A5AD56CC90D35D"
+                    {
+                    "Name" = "8:System.Threading.Tasks.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Threading.Tasks.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_A27EA883D9BC49CF86836C0143A2B9B9"
+            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1514,15 +1078,15 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BD3B3BA808E545A389EEE807A13D69F7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BA2B9EAAEFE743A29020D262C4E0306D"
             {
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\gsdll32.dll"
-            "TargetName" = "8:gsdll32.dll"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Tesseract\\x86\\tesseract.exe"
+            "TargetName" = "8:tesseract.exe"
             "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
+            "Folder" = "8:_A27EA883D9BC49CF86836C0143A2B9B9"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1557,68 +1121,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CB7DF15592E74F49809C25B9610C48A1"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_CB7DF15592E74F49809C25B9610C48A1"
-                    {
-                    "Name" = "8:DocumentFormat.OpenXml.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\DocumentFormat.OpenXml.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D78D86A014E546EE92B5E5985C517FDE"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
-                "ScatterAssemblies"
-                {
-                    "_D78D86A014E546EE92B5E5985C517FDE"
-                    {
-                    "Name" = "8:WindowsBase.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\WindowsBase.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D7F5D3F029FC43EEBAADB2EEDC9E0628"
             {
             "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\Data.LANG\\amh.punctuations"
@@ -1639,20 +1141,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D99E2A91BE6AB839C9CC7471B52DBBC6"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DD2DAAEBFEEDBED54E565557576B37A2"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GhostscriptSharp, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_D99E2A91BE6AB839C9CC7471B52DBBC6"
+                    "_DD2DAAEBFEEDBED54E565557576B37A2"
                     {
-                    "Name" = "8:GhostscriptSharp.dll"
+                    "Name" = "8:itextsharp.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:GhostscriptSharp.dll"
+            "SourcePath" = "8:itextsharp.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1668,37 +1170,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D9F9CC63B5BE4105B7708B737515E4C1"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_D9F9CC63B5BE4105B7708B737515E4C1"
-                    {
-                    "Name" = "8:AForge.Imaging.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\AmhOCR\\bin\\Debug\\AForge.Imaging.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DFD9DDE13F9E49A1B7AC31D95F61C250"
@@ -1721,20 +1192,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E481C26FCDBD4B1F3D6BE8BDD115ED88"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_ED8B96DE7B294BD0A9702D734F350591"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Threading.Tasks, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:System.IO, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_E481C26FCDBD4B1F3D6BE8BDD115ED88"
+                    "_ED8B96DE7B294BD0A9702D734F350591"
                     {
-                    "Name" = "8:System.Threading.Tasks.dll"
+                    "Name" = "8:System.IO.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:System.Threading.Tasks.dll"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\System.IO.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
@@ -1749,7 +1220,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EE39577E65484C75955882353CE04F20"
@@ -1792,21 +1263,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FA79CFEA083F2C5E2A22228836AD502F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F9F1CF05943E4365B1AEDC696F70E7C3"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_FA79CFEA083F2C5E2A22228836AD502F"
-                    {
-                    "Name" = "8:AForge.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:AForge.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\AmhOCR\\bin\\Release\\NetTesseract.dll.config"
+            "TargetName" = "8:NetTesseract.dll.config"
             "Tag" = "8:"
             "Folder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
             "Condition" = "8:"
@@ -1820,7 +1280,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FC3818ECE38246C280151C4EC6AA8577"
@@ -1966,7 +1426,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:AmhOCR-Setup"
         "ProductCode" = "8:{15A01B4B-07DF-426C-B6EE-D586AC4AF0E2}"
-        "PackageCode" = "8:{4BE1CC52-541C-461E-8726-CA2C7F406C3A}"
+        "PackageCode" = "8:{9C2BFD04-27A6-48A7-9007-CDF952D401DB}"
         "UpgradeCode" = "8:{35099A2B-02B5-4FD9-BB12-C56260B0F73C}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -2094,7 +1554,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_523BC74E2C19459E84D0EE06650E1E84"
+            "Target" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
             "Folder" = "8:_30F937C3AEC54E8BB121051BE936894B"
             "WorkingFolder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
             "Icon" = "8:_66D17F637F0047ABB9594D5A98C1A5F9"
@@ -2108,7 +1568,7 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_523BC74E2C19459E84D0EE06650E1E84"
+            "Target" = "8:_049F265B2CD34A3F945FA7E0A31540D2"
             "Folder" = "8:_B364E0CAF3B64FFC8E3EF8BCFE5806F7"
             "WorkingFolder" = "8:_E327A33E3A7E4D6D9ADCDD5E1F7082D2"
             "Icon" = "8:_66D17F637F0047ABB9594D5A98C1A5F9"
